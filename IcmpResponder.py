@@ -1,4 +1,4 @@
-# -*- coding: <encoding name> -*-
+# -*- coding: utf-8 -*-
 
 from ryu.lib.packet import *
 from ryu.base import app_manager
